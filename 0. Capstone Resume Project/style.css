@@ -1,0 +1,32 @@
+*{
+    font-family:Helvetica, sans-serif;
+    text-align: justify;
+
+}
+img{
+    height: 150px;
+}
+#name{
+    font-size: 20px;
+    color:green;
+    line-height: 0%;
+}
+#title{
+    font-size: 20px;
+    line-height: 
+}
+.lefttop{
+    margin-left: 20%
+}
+h4{
+    font-style: italic;
+    font-weight: 100;
+    line-break: strict;
+    line-height: 0%;
+}
+.heading{
+    color: forestgreen;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 100;
+}
